@@ -1,0 +1,117 @@
+# Projeto-Algoritmo
+Atividades e projetos da disciplina.
+IFPI-CAMPUS ANGICAL
+NOME: Soraia Evelin Santiago Silva
+TURMA: 2 ano
+CURSO: Informática A
+
+Resposta da Lista de Exercícios
+
+1)
+
+Pegar a escada
+Posicionar a escada embaixo da lâmpada
+Buscar a lâmpada reserva
+Subir na escada
+Retirar a lâmpada velha 
+Colocar a lâmpada reserva
+2)
+
+Informar os  números
+Decompor em fatores primos
+Escrever a forma fatorada
+Selecionar os fatores comuns de menor expoente
+Resolver potências
+Multiplicar os resultados
+
+3)
+
+Leva o bode
+Volta 
+Leva o lobo
+Traz o bode
+Leva a alfafa
+Volta novamente
+Leva o bode
+
+4)
+Embarca 1 jesuíta e 1 canibal
+Deixa o canibal na margem direita
+Volta o jesuíta
+Embarca o canibal 2
+Deixa o canibal 2 na margem direita
+O jesuíta volta novamente
+Embarca o jesuíta 2 e deixa na margem direita
+Traz um canibal de volta
+Leva o Jesuíta e deixa na margem direita
+Volta novamente
+Pega o canibal e deixa na margem direita.
+Volta
+Embarca por fim o último canibal.
+
+5)
+
+Move-se o disco 1 para a haste c
+Move-se o disco 2 para a base B
+Move-se novamente o disco 1 para a base B
+Move-se o disco 3 para a haste C
+Move-se o disco 1 para a base A
+Move-se o disco 2 para haste C
+Move-se o disco 1 para a haste C
+
+6)
+Amanda não subiu para os outros andares, então ela comprou o livro no térreo.
+Camila não pode ter comprado a gravata pois estava com a senhora que comprou a mesma.
+Bete não pode ter comprado a bolsa pois recebeu de presente da Camila.
+Elisa comprou o candeeiro pois foi a sexta pessoa a sair do elevador, porém ela deixou a Filomena sair primeiro no sexto.
+Divina comprou a gravata pois não pode ser nenhuma das suas amigas.
+Filomena comprou o chapéu pois foi o último item.
+Artigo de cada um:
+Amanda- Livro
+Bete- Vestido
+Camila- Bolsa
+Divina- Gravata
+Elisa- Candeeiro
+Filomena- Chapéu
+
+
+7)
+
+Despeja 1 litro do barril B no A
+Despeja 3 litros do C no A.
+
+8)
+
+Antonio não é pianista
+O João não pode tocar violino pois ensaia com o violinista ás quintas.
+João toca harpa
+Antonio toca violino
+Francisco toca piano
+
+9)
+
+Fazer a tabela com o nome dos 12 amigos e das 12 bebidas 
+ir eliminando as bebidas de acordo com cada proposição da questão até chegar  na bebida de cada pessoa.
+Bebida de cada um:
+João- Vermouth
+Miguel- Cerveja
+Nádia- Vodka
+Sílvia- Laranjada
+Afonso- Chá
+Cristina- Café
+Geraldo- Champanhe
+Júlio- Vinho
+Maria- Água 
+Máximo- Limonada
+Manuel- Whisky
+Ivone- Guaraná
+
+10)
+
+Definir os participantes e as provas
+Usar a pista (a): Gumercindo venceu Barnabé no salto
+Usar a pista (b) : Teodoro chegou atrás de Gumercindo no dardo
+Usar a pista ( c ): Barnabé não venceu nos 100 metros rasos.
+Testar as combinações respeitando a restrição final e lembrando que cada um teve um 1° lugar, 2° lugar e 3° lugar sem repetições.
+
+
