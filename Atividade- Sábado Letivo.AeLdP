@@ -46,6 +46,13 @@ c)3 * 5 div 4 <= pot(3,2)/0,5
        3,75 <= 18
 verdadeira
 
+d) Não( 5<> 10/2 ou V e 2-5 > 5-2 ou V)
+   Não(5<> 5 ou V e -3 > 3 ou V)
+    Não(F ou V e F ou v)
+     Não(F ou F ou V)
+     Não( F ou V)
+      Não(V)
+        F
            
 
 
